@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fcf9f9;
+    font-size: 25px;
+}
+ 
+html {
+    background-image: url(img/MySiteFone.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.nav{
+    padding-top: 1%;
+}
+
+.logo{
+    padding-left: 3%;
+    padding-top: 2%;
+}
+
+.port, .cont{
+    float: right;
+    padding-right: 3%;
+}
+
+.text1{
+    text-align: center;
+    padding-top: 8%;
+    
+}
+
+.text1 h2{
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.text1 h1{
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 55px;    
+}
+
+.AboutUs{
+    background: #1d1d1d;
+    padding-bottom: 7%;
+    margin-top: 8%;
+    text-align: center;
+    
+}
+
+.AboutUs h3{
+    padding-top: 3%;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    padding-bottom: 3%;
+}
+
+.AboutUs p{
+    padding-top: 1%;
+}
+
+.portfol{
+    background: #1d1d1d;
+    padding-bottom: 7%;
+    text-align: center;    
+}
+
+.portfol img{
+    height: 50%;
+    width: 75%;
+    padding-top: 2%;
+}
